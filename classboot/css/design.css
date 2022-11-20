@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+.bck{
+    background-image: url(https://freshcart.codescandy.com/assets/images/slider/slider-2.jpg);
+   padding: 150px 0;
+   text-decoration: none;
+   margin-top: 50px;
+   border-radius: 20px;
+   
+   
+}
+
+.bck p{
+    margin-left: 70px;
+}
+
+.bck p:nth-child(1){
+    border: 1px solid #FFC107;
+    border-radius: 10px;
+    color: black;
+    background-color: #FFC107;
+   
+    width: 18%;
+    text-align: center;
+}
+
+.bck p:nth-child(3){
+    color: #5F6F78;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 20px;
+    
+}
+
+.bck h3{
+    margin-left: 70px;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.bck a{
+    margin-left: 70px;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    padding: 5px;
+    
+}
+
+.middle{
+    margin:80px 0 20px 0;
+}
+
+.card{
+    border-radius: 10px;
+    border:1px solid grey;
+}
+
+.card p{
+    text-align: center;
+    margin: 1rem 0;
+}
+
+
